@@ -1,6 +1,6 @@
 {
     "walkthroughPageData": {
-        "success": false,
+        "success": true,
         "error": "Failed to load data. Please try again.",
         "ctaText": "Shopping Now",
         "pages": [
