@@ -2,22 +2,22 @@
     "walkthroughPageData": {
         "success": true,
         "error": "Status Ok",
-        "ctaText": "Get Started",
+        "ctaText": "Shopping Now",
         "pages": [
             {
-                "title": "Title Page 1",
-                "headline": "Headline Page 1",
+                "title": "Discover something new",
+                "headline": "Special new arrivals just for you",
                 "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
             },
             {
-                "title": "Title Page 2",
-                "headline": "Headline Page 2",
-                "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
+                "title": "Update trendy outfit",
+                "headline": "Favorite brands and hottest trends",
+                "featureGraphic": "https://cdn.pixabay.com/photo/2019/08/07/07/05/woman-4390055_1280.jpg"
             },
             {
-                "title": "Title Page 3",
-                "headline": "Headline Page 3",
-                "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
+                "title": "Explore your true style",
+                "headline": "Relax and let us bring the style to you",
+                "featureGraphic": "https://cdn.pixabay.com/photo/2024/11/28/08/45/woman-9230049_1280.jpg"
             }
         ]
     },
