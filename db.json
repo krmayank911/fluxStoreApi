@@ -1,23 +1,25 @@
 {
     "walkthroughPageData": {
+        "success": true,
+        "error": "Status Ok",
         "ctaText": "Get Started",
         "pages": [
-        {
-            "title": "Title Page 1",
-            "headline": "Headline Page 1",
-            "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
-        },
-        {
-            "title": "Title Page 2",
-            "headline": "Headline Page 2",
-            "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
-        },
-        {
-            "title": "Title Page 3",
-            "headline": "Headline Page 3",
-            "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
-        }
-    ]
+            {
+                "title": "Title Page 1",
+                "headline": "Headline Page 1",
+                "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
+            },
+            {
+                "title": "Title Page 2",
+                "headline": "Headline Page 2",
+                "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
+            },
+            {
+                "title": "Title Page 3",
+                "headline": "Headline Page 3",
+                "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
+            }
+        ]
     },
     "walkthroughPages": [
         {
