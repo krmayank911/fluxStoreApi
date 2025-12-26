@@ -37,5 +37,17 @@
             "headline": "Headline Page 3",
             "featureGraphic": "https://cdn.pixabay.com/photo/2020/10/23/16/50/woman-5679284_1280.jpg"
         }
-    ]
+    ],
+    "loginOtp": {
+        "success": true,
+        "phoneNumber: "8471083566",
+        "message": "Please enter the verification code we sent to your phone number. ",
+        "error": "Failed to load data. Please try again. ",
+    },
+    "verifyOtp": {
+        "success": true,
+        "phoneNumber: "8471083566",
+        "message": "OTP Verified successfully.",
+        "retryOtpTimeOut": 60000
+    }
 }
