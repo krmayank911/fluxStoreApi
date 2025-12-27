@@ -45,9 +45,10 @@
         "error": "Failed to load data. Please try again. "
     },
     "verifyOtp": {
-        "success": true,
+        "success": false,
         "phoneNumber": "8471083566",
         "message": "OTP Verified successfully. ",
+        "otpError": "OTP verification failed. Please enter the correct otp. ",
         "retryOtpTimeOut": 60000
     },
     "phoneNumber": []
